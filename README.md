@@ -9,9 +9,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 <div>
-
 <a
 href="https://instagram.com/seu-usuário-instagram-aqui
 " target="_blank"><img loading="lazy"
