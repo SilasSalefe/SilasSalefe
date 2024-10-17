@@ -18,7 +18,7 @@ Administrativos</li><br>
 
 <p>Com linguagem de programação tenho conhecimentos em:</p>
 
-<li>JAVASCRIPT</li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+JAVASCRIPT<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
 <h1>HTML5</h1><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
           
